@@ -1,0 +1,24 @@
+﻿빌드 시작: 2015-11-09 오후 11:13:11
+     1>2 노드의 "C:\Users\Administrator\Desktop\earth end\hdevstdlib\hdevstdlib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HDEVSTDLIB_EXPORTS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dx.cpp
+         dx.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Administrator\Desktop\earth end\Release\hdevstdlib.lib" /NOLOGO /LTCG Release\dxcamera.obj
+         Release\dxkeyboard.obj
+         Release\dxmaterial.obj
+         Release\dxmesh.obj
+         Release\dxmouse.obj
+         Release\dxlineweb.obj
+         Release\dx3dscreen.obj
+         Release\dxparticle.obj
+         Release\dxpixelshader.obj
+         Release\dxvertexshader.obj
+         Release\main.obj
+         Release\dx.obj
+         hdevstdlib.vcxproj -> C:\Users\Administrator\Desktop\earth end\Release\hdevstdlib.lib
+     1>"C:\Users\Administrator\Desktop\earth end\hdevstdlib\hdevstdlib.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.45
